@@ -1,0 +1,11 @@
+{
+  "org": "spec-first",
+  "repo": "connexion",
+  "versions": [
+    {
+      "commit": "a23d44e0e0421fd83f5ba132269bcfd04b855a16",
+      "tag": "",
+      "parsed_at": "2026-10-12T20:11:09.194988+00:00"
+    }
+  ]
+}
