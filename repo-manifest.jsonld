@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/spec-first/connexion/commit/a23d44e0e0421fd83f5ba132269bcfd04b855a16",
       "git:hexsha": "a23d44e0e0421fd83f5ba132269bcfd04b855a16",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/spec-first/connexion/commit/7a1893aadde55384670c440e1351953986ff4281",
